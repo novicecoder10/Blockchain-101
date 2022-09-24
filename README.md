@@ -24,3 +24,7 @@ More sources for more research and investigation
 #Part 3: Getting started with coding in blockchain.
 Etheruem
 Solana
+
+#Part 4: Blockchain Dictionary
+
+Dictionary
