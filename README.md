@@ -28,3 +28,7 @@ Solana
 #Part 4: Blockchain Dictionary
 
 Dictionary
+
+#Part 5: Blockchain Security
+
+Resources and information related to security side of blockchain
