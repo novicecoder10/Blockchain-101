@@ -27,3 +27,8 @@ https://blokt.com/guides/public-vs-permissioned#:~:text=Unlike%20the%20public%20
 security concerns
 
 https://www.weforum.org/agenda/2018/04/how-secure-is-blockchain/
+
+Blockchain Related RFC(s).
+https://www.rfc-editor.org/rfc/rfc2628
+https://datatracker.ietf.org/doc/html/rfc6421
+https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md
